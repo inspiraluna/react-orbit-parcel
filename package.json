@@ -1,7 +1,7 @@
 {
-  "name": "parcel-orbitdb.decentrasol.network",
+  "name": "react-orbit-parcel.decentrasol.network",
   "version": "0.0.1",
-  "description": "OrbitDb with parcel ",
+  "description": "OrbitDb with react-hooks bundled with parcel",
   "main": "index.js",
   "author": "Nico Krause nico@dencentrasol.network",
   "license": "ISC",
