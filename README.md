@@ -4,5 +4,5 @@
 ### Use
 ´´´
 npm install
-npm run start:demo
+npm run start:demo2
 ´´´

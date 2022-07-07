@@ -2,9 +2,9 @@ import React, { useEffect } from "react";
 import { render } from "react-dom";
 import uuid from "uuid";
 
-import { OrbitProvider, useOrbitDb } from "react-orbitdb";
-// import OrbitProvider from "./OrbitProvider.js";
-// import useOrbitDb from "./useOrbitDb.js";
+// import { OrbitProvider, useOrbitDb } from "react-orbitdb";
+import OrbitProvider from "./OrbitProvider.js";
+import useOrbitDb from "./useOrbitDb.js";
 
 window.LOG = "*";
 
